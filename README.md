@@ -24,5 +24,5 @@ You can download the dataset [here](https://www.kaggle.com/blastchar/telco-custo
 - Python 3.x
 - pandas
 - scikit-learn
-
+- imblearn
 
